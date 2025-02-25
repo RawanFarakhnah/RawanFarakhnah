@@ -32,7 +32,7 @@
 
 ### 🎮 **GitHub Activity**  
 Want to see what I’ve been up to? Check out my stats!  
-![GitHub Streak](https://streak-stats.demolab.com/?user=rfarakhna&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=RawanFarakhnah&theme=radical)
 
 ---
 
