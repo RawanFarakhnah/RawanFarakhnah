@@ -30,13 +30,14 @@
 
 ---
 
-### 🦑 **Welcome to My Fun GitHub Profile!** 🎉  
-![Octodex](https://github.com/OctoLinker/OctoLinker/blob/master/images/octocat-spinning.gif)
-
-### 🚀 Let’s Collaborate & Create Something Awesome!  
-I’m always up for building cool projects, collaborating, or just chatting about tech! Don’t hesitate to reach out if you’re interested in open-source, learning, or coding fun stuff together. 
+### 🎮 **GitHub Activity**  
+Want to see what I’ve been up to? Check out my stats!  
+![GitHub Streak](https://streak-stats.demolab.com/?user=rfarakhna&theme=radical)
 
 ---
 
-### 🤖 About Me  
-I’m a full-stack developer with a passion for learning, creating, and impacting the world. I believe in coding with purpose and collaboration. Let’s build something great and fun!
+### 💬 **Let’s Build Something Amazing**  
+🚀 **I love collaborating** with fellow developers, creators, and problem-solvers. If you're working on an open-source project or have a cool idea, let's connect!  
+[**Reach out to me!**](https://www.linkedin.com/in/rawanfarakhna/)
+
+---
