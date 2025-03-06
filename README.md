@@ -22,18 +22,19 @@
 
 - **Other Tools:**  
   ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
-
-### 📂 Notable Projects  
-- **[eConsular Services System](#):** A comprehensive system to streamline consular services for citizens, including managing requests and approvals efficiently.  
-- **[Document Management System](#):** A robust tool for managing, storing, and retrieving official documents with advanced search and version control.  
-- **[eCitizen Services](https://ecitizen.mfae.gov.ps/PublicForm/Index):** A user-friendly platform designed for citizens to submit public forms, including modules for managing medical data for children treated abroad.
-
+  
 ---
 
-### 🎮 **GitHub Activity**  
-Want to see what I’ve been up to? Check out my stats!  
-![GitHub Streak](https://streak-stats.demolab.com/?user=RawanFarakhnah&theme=radical)
+## 📊 GitHub Stats
+![Rawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RawanFarakhnah&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RawanFarakhnah&layout=compact&theme=radical)  
 
+### 🔥 GitHub Streak  
+![GitHub Streak](https://streak-stats.demolab.com/?user=rfarakhna&theme=radical&hide_border=true)
+
+
+## 📈 GitHub Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RawanFarakhnah&theme=redical" alt="GitHub Activity Graph">
 ---
 
 ### 💬 **Let’s Build Something Amazing**  
