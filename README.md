@@ -13,12 +13,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Rawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RawanFarakhnah&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RawanFarakhnah&layout=compact&theme=radical)  
-
-### 🔥 GitHub Streak  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RawanFarakhnah)](https://git.io/streak-stats)
-
+![Rawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RawanFarakhnah&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RawanFarakhnah&layout=compact&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com/?user=RawanFarakhnah)]
 
 ## 📈 GitHub Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RawanFarakhnah&theme=redical" alt="GitHub Activity Graph">
